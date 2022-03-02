@@ -1,0 +1,106 @@
+body{
+    background-color: navajowhite;
+   
+}
+h1{
+    text-align: center;
+    font-family: "Arvo", cursive;
+    color:#DA0463;
+    text-shadow: 3px 0 #DBEDF3;
+    
+    font-size: 20rem;
+    font-size: 5rem;
+/* 2nd font size ko priority*/
+
+
+
+}
+.drum{
+    text-align: center;
+    font-size: 2rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  margin-right: 30px;
+  display: inline-block;
+    border:solid;
+    height: 100px;
+    width: 100px;
+    background-color:white;
+    /* 32 line for rounded border*/
+    border: 2px solid rgba(0, 0, 255, .2);
+  
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px 5px blueviolet;
+  
+    
+}
+footer{
+    text-align: center;
+    position:absolute; /* line 40 41 43  middle me aur bottom me position karne k liye .. position is absolute relative to body*/
+    left:43%;
+    bottom:0;
+    color:black;
+     font-family: sans-serif;
+   
+    
+
+}
+.w {
+    margin-left: 150px;
+   background-image:url(images/crash.png);
+   background-size: contain;
+   background-repeat: no-repeat;
+
+
+}
+
+.a {
+    background-image:url(images/kick.png);
+    background-size: contain;
+   background-repeat: no-repeat;
+
+
+}
+
+.s {
+    background-image:url(images/snare.png);
+    background-size: contain;
+   background-repeat: no-repeat;
+}
+
+.d {
+    background-image:url(images/tom1.png);
+    background-size: contain;
+   background-repeat: no-repeat;
+}
+
+.j {
+    background-image:url(images/tom2.png);
+    background-size: contain;
+   background-repeat: no-repeat;
+}
+
+.k {
+    background-image:url(images/tom3.png);
+    background-size: contain;
+   background-repeat: no-repeat;
+}
+
+.l {
+    background-image:url(images/tom4.png);
+    background-size: contain;
+   background-repeat: no-repeat;
+}
+/* classes- .game-over,.pressed,.red - they are for animation */
+/* classes added through DOM */
+
+  
+  .pressed {
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+  }
+  
+  
