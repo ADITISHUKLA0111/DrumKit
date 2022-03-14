@@ -2,9 +2,9 @@
 It is a game where a user can click on buttons or can press keyboard button to play sounds displayed in screen.this is a project I made while learning web development 
 
 # Technologies used 
-1.HTML
-2.CSS 
-3.JAVASCRIPT
+1. HTML
+2. CSS 
+3. JAVASCRIPT
 
 
 # Screenshot
