@@ -1,5 +1,5 @@
 # Drum 🥁 Kit 
-It is a game where a user can click on buttons or can press keyboard button to play sounds displayed in screen.this is a project I made while learning web development 
+It is a game where a user can click on buttons or can press keyboard buttons to play sounds displayed on screen.This is a project I made while learning web development 
 
 # Technologies used 
 1. HTML
